@@ -1,2 +1,2 @@
 # LivelyParallax
-A configurabel parallax Lively wallpaper
+A configurable parallax Lively wallpaper
