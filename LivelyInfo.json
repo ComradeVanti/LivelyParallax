@@ -1,0 +1,17 @@
+{
+  "AppVersion": "2.0.3.2",
+  "Title": "Parallax",
+  "Thumbnail": "",
+  "Preview": "",
+  "Desc": "A configurable parallax background controlled by the mouse",
+  "Author": "ComradeVanti",
+  "License": "Unlicense",
+  "Contact": "https://github.com/ComradeVanti/LivelyParallax",
+  "Type": 1,
+  "FileName": "",
+  "Arguments": "",
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": null,
+  "Version": 0
+}
